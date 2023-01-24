@@ -1,0 +1,1 @@
+## components often need to change whats on the screen as result of an interaction .typing into form shoud update the input field ,clicking next on image carousel shoud change which image is displayed . componentss nedd to remember things:the curent input value , the current image . in react this kind pf component specific memory si called state.

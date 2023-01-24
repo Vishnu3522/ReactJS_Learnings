@@ -1,0 +1,1 @@
+### Reacct components use props to comunicate with each other.Every parent compoenent can pass some information to its child components by giving the props. props might remind you of html attributes,but we can pass through any javascript value through them,including objects,arrays,and function.
